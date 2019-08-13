@@ -1,6 +1,6 @@
 # Google Chrome Download Bug
 
-This is an example to recreate the "Failed - Bad certificate"
+This is an example to recreate the "Failed - Bad certificate" download error.
 
 ## Run the test
 ```
@@ -8,7 +8,7 @@ $ docker-compose up
 ```
 
  - go to https://localhost:8080
- - click on Download link
+ - click on the download link
  - Wait 90 seconds. Do not refresh the page
  - Click on the download link again. Returns "Failed - Bad certificate"
 
