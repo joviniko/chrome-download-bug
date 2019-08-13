@@ -1,6 +1,7 @@
 # Google Chrome Download Bug
 
 This is an example to recreate the "Failed - Bad certificate" download error.
+Created for the chromium issue: https://bugs.chromium.org/p/chromium/issues/detail?id=993362
 
 ## Run the test
 ```
